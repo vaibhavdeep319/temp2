@@ -1,4 +1,4 @@
-const api = "http://www.omdbapi.com/?i=tt3896198&apikey=be41af31"
+const api="http://www.omdbapi.com/?i=tt3896198&apikey=13ec1992"
 const searchbox = document.querySelector(".Search-box");
 // searchbox.addEventListener('keypress',setQuery);
 const button = document.querySelector(".button");
